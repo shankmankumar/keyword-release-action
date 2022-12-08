@@ -1,4 +1,3 @@
-#shashank
 FROM alpine
 
 RUN apk add --no-cache \
